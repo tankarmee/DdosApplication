@@ -1,0 +1,9 @@
+D:\VSCsharpProjects\DdosBox\bin\Debug\DdosBox.exe
+D:\VSCsharpProjects\DdosBox\bin\Debug\DdosBox.pdb
+D:\VSCsharpProjects\DdosBox\obj\Debug\DdosBox.csproj.AssemblyReference.cache
+D:\VSCsharpProjects\DdosBox\obj\Debug\DdosBox.Form1.resources
+D:\VSCsharpProjects\DdosBox\obj\Debug\DdosBox.Properties.Resources.resources
+D:\VSCsharpProjects\DdosBox\obj\Debug\DdosBox.csproj.GenerateResource.cache
+D:\VSCsharpProjects\DdosBox\obj\Debug\DdosBox.csproj.CoreCompileInputs.cache
+D:\VSCsharpProjects\DdosBox\obj\Debug\DdosBox.exe
+D:\VSCsharpProjects\DdosBox\obj\Debug\DdosBox.pdb
